@@ -1,16 +1,28 @@
-## Hi there 👋
+# Olá, eu sou macspacel
+## Sobre mim 
+ Sou um estudante de programação.
 
-<!--
-**macspacel/macspacel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Atualmente estou na área de **front-end**.
 
-Here are some ideas to get you started:
+ Pretendo aprender **back-end** e aprimorar minhas habilidades de desenvolvimento.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Objetivos atuais
+- HTML
+- CSS
+- JavaScript
+
+## Próximos objetivos
+- Python
+- React
+- C
+- C#
+- C++
+- Banco de Dados e SQL
+ 
+## Sobre meus projetos
+  Pretendo adicionar meus projetos ao meu **GitHub** e deixá-los públicos.
+
+## Sobre meu GitHub
+ Pretendo manter meu **GitHub** atualizado, mostrando minha evolução e habilidades no ramo.
+ 
+  ### Obrigado por verem meu GitHub, agradeço a atenção.
