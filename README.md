@@ -19,10 +19,10 @@
 - C++
 - Banco de Dados e SQL
  
-## Sobre meus projetos
-  Pretendo adicionar meus projetos ao meu **GitHub** e deixá-los públicos.
+## meus projetos
+  Visite: [Meus projetos](https://github.com./meusprojetos)
 
-## Sobre meu GitHub
+## meu GitHub
  Pretendo manter meu **GitHub** atualizado, mostrando minha evolução e habilidades no ramo.
  
   ### Obrigado por verem meu GitHub, agradeço a atenção.
