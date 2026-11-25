@@ -7,9 +7,9 @@
  Pretendo aprender **back-end** e aprimorar minhas habilidades de desenvolvimento.
 
 ## Objetivos atuais
-- HTML
-- CSS
-- JavaScript
+- HTML ![HTML5](https://shields.io)
+- CSS ![CSS3](https://shields.io)
+- JavaScript ![JavaScript](thtps://shields.io)
 
 ## Próximos objetivos
 - Python
