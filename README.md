@@ -20,7 +20,7 @@
 - Banco de Dados e SQL
  
 ## meus projetos
-  Visite: [Meus projetos](https://github.com./meus-projetos)
+  Visite: [Meus projetos](https://github.com./macspacel/meus-projetos)
 
 ## meu GitHub
  Pretendo manter meu **GitHub** atualizado, mostrando minha evolução e habilidades no ramo.
