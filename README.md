@@ -17,12 +17,12 @@
 - C
 - C#
 - C++
-- Banco de Dados e SQL
+- Banco de Dados SQL
  
 ## meus projetos
   Visite: [Meus projetos](https://github.com./macspacel/meus-projetos)
 
 ## meu GitHub
- Pretendo manter meu **GitHub** atualizado, mostrando minha evolução e habilidades no ramo.
- 
+ Manterei meu GitHub atualizado, com projetos e códigos novos sempre mostrando minha evolução através do meu GitHub
+  
   ### Obrigado por verem meu GitHub, agradeço a atenção.
