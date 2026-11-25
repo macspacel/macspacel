@@ -9,7 +9,7 @@
 ## Objetivos atuais
 - HTML ![HTML5](https://shields.io)
 - CSS ![CSS3](https://shields.io)
-- JavaScript ![JavaScript](thtps://shields.io)
+- JavaScript ![JavaScript](https://shields.io)
 
 ## Próximos objetivos
 - Python
