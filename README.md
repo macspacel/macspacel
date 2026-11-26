@@ -32,6 +32,6 @@ Visite o repositório que guarda meus projetos e códigos.
   [Meus projetos](https://github.com/macspacel/meus-projetos)
 
 ## Meu GitHub
-Irei compartilhar pelo GitHub minha evolução e projetos novos com bastante constância.
+Compartilharei no GitHub minha evolução e projetos novos regularmente.
   
-  ### Obrigado por visitarem meu Github, agradeço a atenção!
+  ### Obrigado por visitarem meu perfil, agradeço a atenção!
